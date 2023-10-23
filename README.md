@@ -6,3 +6,7 @@
 ## https://github.com/pymc-devs/pymc
 ## https://github.com/JohnGoertz/Gumbi/blob/main/tests/test_regression.py
 ## https://www.pymc.io/projects/examples/en/latest/gallery.html
+##
+###https://github.com/ultralytics/assets/releases
+###https://github.com/ultralytics/ultralytics
+###https://github.com/autogyro/yolo-V8
